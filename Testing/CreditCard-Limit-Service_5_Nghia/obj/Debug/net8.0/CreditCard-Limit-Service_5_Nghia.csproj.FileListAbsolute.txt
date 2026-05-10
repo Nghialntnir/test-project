@@ -1,0 +1,11 @@
+D:\Computer Science\Testing\CreditCard-Limit-Service_5_Nghia\bin\Debug\net8.0\CreditCard-Limit-Service_5_Nghia.deps.json
+D:\Computer Science\Testing\CreditCard-Limit-Service_5_Nghia\bin\Debug\net8.0\CreditCard-Limit-Service_5_Nghia.dll
+D:\Computer Science\Testing\CreditCard-Limit-Service_5_Nghia\bin\Debug\net8.0\CreditCard-Limit-Service_5_Nghia.pdb
+D:\Computer Science\Testing\CreditCard-Limit-Service_5_Nghia\obj\Debug\net8.0\CreditCard-Limit-Service_5_Nghia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Science\Testing\CreditCard-Limit-Service_5_Nghia\obj\Debug\net8.0\CreditCard-Limit-Service_5_Nghia.AssemblyInfoInputs.cache
+D:\Computer Science\Testing\CreditCard-Limit-Service_5_Nghia\obj\Debug\net8.0\CreditCard-Limit-Service_5_Nghia.AssemblyInfo.cs
+D:\Computer Science\Testing\CreditCard-Limit-Service_5_Nghia\obj\Debug\net8.0\CreditCard-Limit-Service_5_Nghia.csproj.CoreCompileInputs.cache
+D:\Computer Science\Testing\CreditCard-Limit-Service_5_Nghia\obj\Debug\net8.0\CreditCard-Limit-Service_5_Nghia.dll
+D:\Computer Science\Testing\CreditCard-Limit-Service_5_Nghia\obj\Debug\net8.0\refint\CreditCard-Limit-Service_5_Nghia.dll
+D:\Computer Science\Testing\CreditCard-Limit-Service_5_Nghia\obj\Debug\net8.0\CreditCard-Limit-Service_5_Nghia.pdb
+D:\Computer Science\Testing\CreditCard-Limit-Service_5_Nghia\obj\Debug\net8.0\ref\CreditCard-Limit-Service_5_Nghia.dll

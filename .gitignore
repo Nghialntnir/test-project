@@ -1,0 +1,135 @@
+# ======================================
+# 🧱 PREREQUISITES
+# ======================================
+*.d
+
+# ======================================
+# ⚙️ C# / .NET BUILD ARTIFACTS
+# ======================================
+# Build outputs
+bin/
+obj/
+[Bb]uild/
+[Bb]in/
+
+# Visual Studio generated
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+*.deps.json
+*.runtimeconfig.json
+*.dll
+*.exe
+*.pdb
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# ASP.NET temp
+App_Data/
+project.lock.json
+project.fragment.lock.json
+
+# ======================================
+# 🔍 TESTING
+# ======================================
+TestResult*/
+TestResults/
+*.coverage
+*.coveragexml
+.coverage
+.nCrunch*
+*.ncrunchsolution
+*.vsmdi
+*.trx
+
+# ======================================
+# 📦 JSON / JS
+# ======================================
+*.json
+*.map
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.dist/
+build/
+
+# Allow specific JSON config to track
+!appsettings.json
+!appsettings.Development.json
+
+# ======================================
+# 🧰 IDE / EDITORS
+# ======================================
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Visual Studio
+.vs/
+*.vcxproj*
+*.dbmdl
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# ======================================
+# 🏗️ CMAKE / ETC (nếu project có C/C++ phụ trợ)
+# ======================================
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.cmake
+Makefile
+*.ninja
+
+# ======================================
+# 🧹 LOGS / TEMP / CACHE / BACKUPS
+# ======================================
+*.log
+*.tmp
+*.bak
+*.old
+*.orig
+*.rej
+*.swp
+*.swo
+.cache/
+tmp/
+logs/
+*.pid
+
+# ======================================
+# 🖥️ OS-SPECIFIC JUNK
+# ======================================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+.nfs*
+
+# ======================================
+# 🔥 CUSTOM – TÙY CHỈNH
+# ======================================
+third_party/
+external/
+tests/tmp/

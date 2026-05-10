@@ -1,0 +1,24 @@
+﻿TestCaseId_5_Nghia,Description_5_Nghia,FullName_5_Nghia,IsVietnamese_5_Nghia,Age_5_Nghia,CicGroup_5_Nghia,Method_5_Nghia,Income_5_Nghia,Asset_5_Nghia,ReqTier_5_Nghia,ExpApproved_5_Nghia,ExpLimit_5_Nghia,ExpTier_5_Nghia
+TC06_5_Nghia,[Limit Classic - TSTC] Bien duoi - OK,Customer 6,true,18,1,ByAsset_5_Nghia,3000000,12500000,Classic_5_Nghia,true,10000000,Classic_5_Nghia
+TC07_5_Nghia_10/5/2026,[Limit Classic - TSTC] Bien duoi-1 (loai),Customer 7,true,18,1,ByAsset_5_Nghia,3000000,12499999,Classic_5_Nghia,false,0,None_5_Nghia
+TC08_5_Nghia,[Limit Classic - Income] Luong binh thuong - OK,Customer 8,true,20,1,ByIncome_5_Nghia,10000000,0,Classic_5_Nghia,true,30000000,Classic_5_Nghia
+TC09_5_Nghia,[Limit Classic - Income] Tren tran - OK,Customer 9,true,20,1,ByIncome_5_Nghia,100000000,0,Classic_5_Nghia,true,49999999,Classic_5_Nghia
+TC10_5_Nghia,[Limit Classic - Income] Bang san - OK,Customer 10,true,20,1,ByIncome_5_Nghia,3333334,0,Classic_5_Nghia,true,10000002,Classic_5_Nghia
+TC11_5_Nghia,[Limit Classic - Income] Duoi san (loai),Customer 11,true,30,1,ByIncome_5_Nghia,3333333,0,Classic_5_Nghia,false,0,None_5_Nghia
+TC12_5_Nghia,[Limit Gold - TSTC] Bien duoi - OK,Customer 12,true,40,2,ByAsset_5_Nghia,0,62500000,Gold_5_Nghia,true,50000000,Gold_5_Nghia
+TC13_5_Nghia,[Limit Gold - TSTC] Bien duoi-1 - (loai),Customer 13,true,40,2,ByAsset_5_Nghia,0,62499999,Gold_5_Nghia,false,0,None_5_Nghia
+TC14_5_Nghia,[Limit Gold - Income] Luong binh thuong,Customer 14,true,70,2,ByIncome_5_Nghia,50000000,0,Gold_5_Nghia,true,150000000,Gold_5_Nghia
+TC15_5_Nghia,[Limit Gold - Income] Tren tran - OK,Customer 15,true,70,1,ByIncome_5_Nghia,300000000,0,Gold_5_Nghia,true,499999999,Gold_5_Nghia
+TC16_5_Nghia,[Limit Gold - Income] Bang san - OK,Customer 16,true,70,1,ByIncome_5_Nghia,16666667,0,Gold_5_Nghia,true,50000000,Gold_5_Nghia
+TC17_5_Nghia,[Limit Gold - Income] Duoi san - (loai),Customer 17,true,70,1,ByIncome_5_Nghia,16666666,0,Gold_5_Nghia,false,0,None_5_Nghia
+TC18_5_Nghia,[Limit Pla - TSTC] Bien duoi - OK,Customer 18,true,40,2,ByAsset_5_Nghia,0,625000000,Platinum_5_Nghia,true,500000000,Platinum_5_Nghia
+TC19_5_Nghia,[Limit Pla - TSTC] Bien duoi-1 - (loai),Customer 19,true,40,2,ByAsset_5_Nghia,0,624999999,Platinum_5_Nghia,false,0,None_5_Nghia
+TC20_5_Nghia,[Limit Pla - Income] Luong binh thuong,Customer 20,true,70,2,ByIncome_5_Nghia,250000000,0,Platinum_5_Nghia,true,750000000,Platinum_5_Nghia
+TC21_5_Nghia,[Limit Pla - Income] Tren vuot tran - OK,Customer 21,true,70,1,ByIncome_5_Nghia,3000000000,0,Platinum_5_Nghia,true,1000000000,Platinum_5_Nghia
+TC22_5_Nghia,[Limit Pla - Income] Bang san - OK,Customer 22,true,70,1,ByIncome_5_Nghia,166666667,0,Platinum_5_Nghia,true,500000000,Platinum_5_Nghia
+TC23_5_Nghia,[Limit Pla - Income] Duoi san - (loai),Customer 23,true,70,1,ByIncome_5_Nghia,166666666,0,Platinum_5_Nghia,false,0,None_5_Nghia
+TC24_5_Nghia,Loi thu nhap am,Customer 24,true,25,1,ByIncome_5_Nghia,-10000000,0,Classic_5_Nghia,true,-30000000,Classic_5_Nghia
+TC25_5_Nghia,150 tuoi,Customer 25,true,150,1,ByIncome_5_Nghia,50000000,0,Classic_5_Nghia,true,49999999,Classic_5_Nghia
+TC26_5_Nghia,Luong thap doi the cao,Customer 26,true,25,1,ByIncome_5_Nghia,5000000,0,Gold_5_Nghia,true,15000000,Gold_5_Nghia
+TC27_5_Nghia,It tai san doi the xin,Customer 27,true,25,1,ByAsset_5_Nghia,0,100000000,Platinum_5_Nghia,true,80000000,Platinum_5_Nghia
+TC28_5_Nghia,Thu nhap bang 0,Thu nhap 0,true,25,1,ByIncome_5_Nghia,0,0,Classic_5_Nghia,true,10000000,Classic_5_Nghia

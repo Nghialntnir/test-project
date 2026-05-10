@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebWallpaperAlchemy_5_Nghia", "TestWebWallpaperAlchemy_5_Nghia.csproj", "{856A8C2F-639D-4A32-B222-AC8827CAC413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856A8C2F-639D-4A32-B222-AC8827CAC413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856A8C2F-639D-4A32-B222-AC8827CAC413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856A8C2F-639D-4A32-B222-AC8827CAC413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856A8C2F-639D-4A32-B222-AC8827CAC413}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {172D0507-11C7-4CCA-929C-6E59AC32B9AB}
+	EndGlobalSection
+EndGlobal

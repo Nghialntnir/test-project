@@ -1,0 +1,107 @@
+{
+  "item_5_Nghia": [
+    {
+      "id": "1",
+      "name": "Vô Cực Kiếm",
+      "price": 3400,
+      "category_id": 1
+    },
+    {
+      "id": "2",
+      "name": "Mũ Phù Thủy Rabadon",
+      "price": 3600,
+      "category_id": 2
+    },
+    {
+      "id": "3",
+      "name": "Huyết Kiếm",
+      "price": 27700,
+      "category_id": 3
+    },
+    {
+      "id": "4",
+      "name": "Ma Vũ Song Kiếm",
+      "price": 2600,
+      "category_id": 1
+    },
+    {
+      "id": "5",
+      "name": "Trượng Trường Sinh",
+      "price": 2800,
+      "category_id": 2
+    },
+    {
+      "id": "6",
+      "name": "Giáp Thiên Nhiên",
+      "price": 2800,
+      "category_id": 3
+    },
+    {
+      "id": "7",
+      "name": "Rìu Đen",
+      "price": 3100,
+      "category_id": 1
+    },
+    {
+      "id": "8",
+      "name": "Đồng Hồ Cát Zhonya",
+      "price": 3000,
+      "category_id": 2
+    },
+    {
+      "id": "9",
+      "name": "Móng Vuốt Sterak",
+      "price": 3100,
+      "category_id": 3
+    },
+    {
+      "id": "10",
+      "name": "Nỏ Tử Thủ",
+      "price": 3000,
+      "category_id": 1
+    },
+    {
+      "id": "11",
+      "name": "Búa Rìu Sát Thần",
+      "price": 3300,
+      "category_id": 1
+    },
+    {
+      "id": "12",
+      "name": "Chùy Phản Kích",
+      "price": 3300,
+      "category_id": 1
+    },
+    {
+      "id": "hf4Ssz5BYT8",
+      "name": "Móng vuốt ám muội",
+      "price": 3100,
+      "category_id": 2
+    },
+    {
+      "id": "SfLbK_urO_Q",
+      "name": "Móng vuốt ám muội",
+      "price": 3100,
+      "category_id": 2
+    },
+    {
+      "id": "njYn9uoRtjI",
+      "name": "Móng vuốt ám muội",
+      "price": 3100,
+      "category_id": 2
+    },
+    {
+      "id": "9Xh9ibUoQKk",
+      "name": "Móng vuốt ám muội",
+      "price": 3100,
+      "category_id": 2
+    },
+    {
+      "id": "5Nfmr9HLSgQ",
+      "name": "Móng vuốt ám muội",
+      "price": 3100,
+      "category_id": 2
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
