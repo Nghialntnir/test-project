@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Computer Science\\Testing\\CreditCard-Limit-Service_5_Nghia\\CreditCard-Limit-Service_5_Nghia.csproj",
+      "projectUniqueName": "D:\\Computer Science\\test-project\\Testing\\CreditCard-Limit-Service_5_Nghia\\CreditCard-Limit-Service_5_Nghia.csproj",
       "projectName": "CreditCard-Limit-Service_5_Nghia",
-      "projectPath": "D:\\Computer Science\\Testing\\CreditCard-Limit-Service_5_Nghia\\CreditCard-Limit-Service_5_Nghia.csproj",
+      "projectPath": "D:\\Computer Science\\test-project\\Testing\\CreditCard-Limit-Service_5_Nghia\\CreditCard-Limit-Service_5_Nghia.csproj",
       "packagesPath": "C:\\Users\\nghia\\.nuget\\packages\\",
-      "outputPath": "D:\\Computer Science\\Testing\\CreditCard-Limit-Service_5_Nghia\\obj\\",
+      "outputPath": "D:\\Computer Science\\test-project\\Testing\\CreditCard-Limit-Service_5_Nghia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

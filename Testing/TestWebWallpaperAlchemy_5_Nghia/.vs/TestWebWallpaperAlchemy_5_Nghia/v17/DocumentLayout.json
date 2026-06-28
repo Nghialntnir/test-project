@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Computer Science\\Testing\\TestWebWallpaperAlchemy_5_Nghia\\",
+  "WorkspaceRootPath": "D:\\Computer Science\\test-project\\Testing\\TestWebWallpaperAlchemy_5_Nghia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{856A8C2F-639D-4A32-B222-AC8827CAC413}|TestWebWallpaperAlchemy_5_Nghia.csproj|d:\\computer science\\testing\\testwebwallpaperalchemy_5_nghia\\openwebwallpaperalchemy_5_nghia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{856A8C2F-639D-4A32-B222-AC8827CAC413}|TestWebWallpaperAlchemy_5_Nghia.csproj|d:\\computer science\\test-project\\testing\\testwebwallpaperalchemy_5_nghia\\openwebwallpaperalchemy_5_nghia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856A8C2F-639D-4A32-B222-AC8827CAC413}|TestWebWallpaperAlchemy_5_Nghia.csproj|solutionrelative:openwebwallpaperalchemy_5_nghia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856A8C2F-639D-4A32-B222-AC8827CAC413}|TestWebWallpaperAlchemy_5_Nghia.csproj|d:\\computer science\\test-project\\testing\\testwebwallpaperalchemy_5_nghia\\openwebwallpaperalchemy_5_nghia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{856A8C2F-639D-4A32-B222-AC8827CAC413}|TestWebWallpaperAlchemy_5_Nghia.csproj|solutionrelative:openwebwallpaperalchemy_5_nghia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856A8C2F-639D-4A32-B222-AC8827CAC413}|TestWebWallpaperAlchemy_5_Nghia.csproj|d:\\computer science\\test-project\\testing\\testwebwallpaperalchemy_5_nghia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856A8C2F-639D-4A32-B222-AC8827CAC413}|TestWebWallpaperAlchemy_5_Nghia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,10 +31,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OpenWebWallpaperAlchemy_5_Nghia.cs [Design]",
-              "DocumentMoniker": "D:\\Computer Science\\Testing\\TestWebWallpaperAlchemy_5_Nghia\\OpenWebWallpaperAlchemy_5_Nghia.cs",
+              "Title": "OpenWebWallpaperAlchemy_5_Nghia.cs",
+              "DocumentMoniker": "D:\\Computer Science\\test-project\\Testing\\TestWebWallpaperAlchemy_5_Nghia\\OpenWebWallpaperAlchemy_5_Nghia.cs",
               "RelativeDocumentMoniker": "OpenWebWallpaperAlchemy_5_Nghia.cs",
-              "ToolTip": "D:\\Computer Science\\Testing\\TestWebWallpaperAlchemy_5_Nghia\\OpenWebWallpaperAlchemy_5_Nghia.cs [Design]",
+              "ToolTip": "D:\\Computer Science\\test-project\\Testing\\TestWebWallpaperAlchemy_5_Nghia\\OpenWebWallpaperAlchemy_5_Nghia.cs",
+              "RelativeToolTip": "OpenWebWallpaperAlchemy_5_Nghia.cs",
+              "ViewState": "AQIAABwBAAAAAAAAAAAkwEYBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T07:50:11.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Computer Science\\test-project\\Testing\\TestWebWallpaperAlchemy_5_Nghia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Computer Science\\test-project\\Testing\\TestWebWallpaperAlchemy_5_Nghia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T07:50:04.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenWebWallpaperAlchemy_5_Nghia.cs [Design]",
+              "DocumentMoniker": "D:\\Computer Science\\test-project\\Testing\\TestWebWallpaperAlchemy_5_Nghia\\OpenWebWallpaperAlchemy_5_Nghia.cs",
+              "RelativeDocumentMoniker": "OpenWebWallpaperAlchemy_5_Nghia.cs",
+              "ToolTip": "D:\\Computer Science\\test-project\\Testing\\TestWebWallpaperAlchemy_5_Nghia\\OpenWebWallpaperAlchemy_5_Nghia.cs [Design]",
               "RelativeToolTip": "OpenWebWallpaperAlchemy_5_Nghia.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-10T06:41:14.041Z",

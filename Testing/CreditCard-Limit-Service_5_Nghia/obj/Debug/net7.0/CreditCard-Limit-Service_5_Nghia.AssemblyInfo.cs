@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreditCard-Limit-Service_5_Nghia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f4f2e44a1bf33790fc709540991d2157248f838")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreditCard-Limit-Service_5_Nghia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreditCard-Limit-Service_5_Nghia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
