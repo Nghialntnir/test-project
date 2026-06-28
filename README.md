@@ -153,4 +153,4 @@ REST API testing project using Postman with automated JavaScript test scripts.
 
 ## 4.5. Put
 
-![](Img/apipatch.png)
+![](Img/apiput.png)
